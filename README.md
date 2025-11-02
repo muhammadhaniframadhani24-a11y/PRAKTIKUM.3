@@ -2,13 +2,6 @@
 TUGAS PEMOGRAMAN DASAR PERTEMUAN 7
 NAMA = MUHAMMAD HANIF RAMADHANI
 NIM = 312510291
-# Praktikum3
-Tugas Pemrograman Dasar Pertemuan Ke 7 <br>
-
-NAMA    : Andi Ramli Hidayat <br>
-NIM     : 312510385 <br>
-KELAS   : TI.25 C.5
-
 # Latihan 1
 <ul>
   <li>Program</li>
